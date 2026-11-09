@@ -1,0 +1,99 @@
+brand_name,generic_name,category,urdu_spellings
+Panadol,Paracetamol,Analgesic,پینڈول;پیناڈول
+Panadol Extra,Paracetamol+Caffeine,Analgesic,پینڈول ایکسٹرا
+Panadol CF,Paracetamol Cold Formula,Cold/Flu,پینڈول سی ایف
+Panadol Night,Paracetamol+Diphenhydramine,Analgesic/Sleep,پینڈول نائٹ
+Panadol Syrup,Paracetamol (pediatric),Analgesic,پینڈول شربت
+Calpol,Paracetamol (pediatric),Analgesic,کیلپول
+Fevadol,Paracetamol,Analgesic,فیوا ڈول
+Disprin,Aspirin,Analgesic,ڈسپرین
+Ecosprin,Aspirin (low dose),Antiplatelet,ایکوسپرین
+Brufen,Ibuprofen,NSAID,بروفن
+Ponstan,Mefenamic Acid,NSAID,پونسٹن
+Ponstan Forte,Mefenamic Acid,NSAID,پونسٹن فورٹ
+Voltral,Diclofenac,NSAID,وولٹرال
+Voren,Diclofenac,NSAID,وورین
+Cataflam,Diclofenac Potassium,NSAID,کیٹافلام
+Cataflam-D,Diclofenac Dispersible,NSAID,کیٹافلام ڈی
+Nervine,Diclofenac,NSAID,نروین
+Tramal,Tramadol,Analgesic (opioid),ٹرامال
+Augmentin,Amoxicillin+Clavulanate,Antibiotic,آگمنٹن
+Augmentin Duo,Amoxicillin+Clavulanate (pediatric),Antibiotic,آگمنٹن ڈوو
+Amoxil,Amoxicillin,Antibiotic,اموکسل
+Ospamox,Amoxicillin,Antibiotic,اوسپاموکس
+Klaricid,Clarithromycin,Antibiotic,کلاریسڈ
+Zimax,Azithromycin,Antibiotic,زیمیکس
+Azomax,Azithromycin,Antibiotic,ازوماکس
+Trex,Ceftriaxone,Antibiotic,ٹریکس
+Rocephin,Ceftriaxone,Antibiotic,روسیفن
+Flagyl,Metronidazole,Antibiotic/Antiprotozoal,فلاجیل
+Flagyl Suspension,Metronidazole (pediatric),Antibiotic,فلاجیل شربت
+Cifran,Ciprofloxacin,Antibiotic,سیفران
+Ciplox,Ciprofloxacin,Antibiotic,سیپلوکس
+Vibramycin,Doxycycline,Antibiotic,وائبرامائسن
+Septran,Cotrimoxazole,Antibiotic,سیپٹران
+Entamizole,Metronidazole+Diloxanide,Antiprotozoal,اینٹامیزول
+Flagentyl,Secnidazole,Antiprotozoal,فلاجینٹائل
+Risek,Omeprazole,PPI,رزیک
+Risek IV,Omeprazole Injection,PPI,رزیک آئی وی
+Omepron,Omeprazole,PPI,اومیپرون
+Nexum,Esomeprazole,PPI,نیکسم
+Zoton,Lansoprazole,PPI,زوٹون
+Pantoloc,Pantoprazole,PPI,پینٹولاک
+Aciloc,Ranitidine,Antacid/H2 blocker,ایسیلوک
+Gaviscon,Alginate Antacid,Antacid,گیویسکون
+Digene,Antacid,Antacid,ڈائیجین
+Buscopan,Hyoscine,Antispasmodic,بسکوپان
+Buscopan Compositum,Hyoscine+Dipyrone,Antispasmodic,بسکوپان کمپوزیٹم
+Colimex,Antispasmodic,GI,کولیمکس
+Motilium,Domperidone,Antiemetic,موٹیلیم
+Muscarid,Antispasmodic,GI,مسکارڈ
+Imodium,Loperamide,Antidiarrheal,آئیموڈیم
+ORS,Oral Rehydration Salts,Electrolyte,او آر ایس
+Norvasc,Amlodipine,Antihypertensive,نورواسک
+Concor,Bisoprolol,Antihypertensive,کونکور
+Co-Diovan,Valsartan+HCTZ,Antihypertensive,کوڈیوان
+Lasix,Furosemide,Diuretic,لیسکس
+Inderal,Propranolol,Beta blocker,انڈرل
+Aldactone,Spironolactone,Diuretic,الڈیکٹون
+Cardace,Ramipril,ACE inhibitor,کارڈیس
+Zestril,Lisinopril,ACE inhibitor,زیسٹرل
+Glucophage,Metformin,Antidiabetic,گلوکوفاج
+Amaryl,Glimepiride,Antidiabetic,امیرل
+Diamicron,Gliclazide,Antidiabetic,ڈائیامیکرون
+Januvia,Sitagliptin,Antidiabetic,جانویا
+Lantus,Insulin Glargine,Antidiabetic,لینٹس
+Mixtard,Insulin,Antidiabetic,مکسٹارڈ
+Surbex-Z,Multivitamin,Supplement,سربیکس زیڈ
+Neurobion,Vitamin B Complex,Supplement,نیوروبیون
+Calcium-D,Calcium+Vitamin D,Supplement,کیلشیم ڈی
+Ostocalcium,Calcium Supplement,Supplement,آسٹو کیلشیم
+Iberet,Iron+Vitamins,Supplement,آئبریٹ
+Zincovit,Zinc+Multivitamin,Supplement,زنکووٹ
+Actifed,Antihistamine+Decongestant,Cold/Flu,ایکٹیفیڈ
+Tuseemin,Cough Syrup,Respiratory,تسیمین
+Solvin,Cough Expectorant,Respiratory,سولون
+Corex,Codeine Cough Syrup,Respiratory,کوریکس
+Grillinctus,Cough Syrup,Respiratory,گریلنکٹس
+Broncho-Vaxom,Immunostimulant,Respiratory,برونکو ویکسوم
+Ventolin,Salbutamol,Bronchodilator,وینٹولین
+Asthalin,Salbutamol,Bronchodilator,استھالین
+Seretide,Fluticasone+Salmeterol,Asthma/COPD,سیریٹائیڈ
+Zyrtec,Cetirizine,Antihistamine,زائرٹیک
+Telfast,Fexofenadine,Antihistamine,ٹیلفاسٹ
+Claritin,Loratadine,Antihistamine,کلیریٹن
+Avil,Pheniramine,Antihistamine,ایول
+Xanax,Alprazolam,Anxiolytic,زیناکس
+Rivotril,Clonazepam,Anticonvulsant/Anxiolytic,ریوٹرل
+Lyrica,Pregabalin,Neuropathic Pain,لائریکا
+Tegral,Carbamazepine,Anticonvulsant,ٹیگرال
+Depakote,Sodium Valproate,Anticonvulsant,ڈیپاکوٹ
+Rigix,Sildenafil,Erectile Dysfunction,رگکس
+Rigix Gold,Sildenafil,Erectile Dysfunction,رگکس گولڈ
+Caverta,Sildenafil,Erectile Dysfunction,کاورٹا
+Dexamethasone,Dexamethasone,Corticosteroid,ڈیکسا میتھاسون
+Deltacortil,Prednisolone,Corticosteroid,ڈیلٹا کورٹل
+Betnovate,Betamethasone Cream,Dermatology,بیٹنووٹ
+Candid-B,Clotrimazole+Beclomethasone,Dermatology,کینڈڈ بی
+Daktarin,Miconazole,Antifungal,ڈیکٹرین
+Nizoral,Ketoconazole,Antifungal,نیزورال

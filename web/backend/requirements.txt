@@ -1,0 +1,2 @@
+webrtcvad-wheels==2.0.14
+websockets==15.0.1

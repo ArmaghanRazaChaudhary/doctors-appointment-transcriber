@@ -1,0 +1,6 @@
+.venv/
+.env
+api-key.txt
+outputs/
+__pycache__/
+*.pyc

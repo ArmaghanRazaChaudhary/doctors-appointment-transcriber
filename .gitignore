@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# never publish consultation data
+recordings/
+clinical_notes/
+*.wav
+*.mp3
+*.m4a
+openai_trial/outputs/
+web/local_data/
+web/data/saved-runs.json
+
+# large or rebuildable
+drap_master.db
+*.db
+*.pkl
+web/backend/vendor/
+
+# secrets
+.env
+.env.*
+!.env.example
+api-key.txt
+*.pem
+web/backend/settings.local.json
+
+# logs and debug
+*.log
+debug_*.html

@@ -1,0 +1,8 @@
+numpy
+rapidfuzz
+requests
+scipy
+sounddevice
+soundfile
+torch
+transformers
